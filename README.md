@@ -54,8 +54,9 @@ Nosso foco é simplicidade, usabilidade e comunidade. Com uma arquitetura técni
 ---
 
 ## Estrutura Técnica
-Aqui está uma visão geral da arquitetura atual:  
+Aqui está uma visão geral da arquitetura atual do projeto **Gaterhub**:
 
+```plaintext
 📂 Gaterhub
 ├── 📂 app
 │   ├── 📂 Http
