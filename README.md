@@ -59,22 +59,30 @@ Aqui está uma visão geral da arquitetura atual:
 📂 Gaterhub
 ├── 📂 app
 │   ├── 📂 Http
-│   │   ├── 📂 Controllers (API e Inertia controllers)
-│   │   └── 📂 Middleware (ex.: HandleInertiaRequests)
-│   ├── 📂 Models (User, Topic, Post, Menu)
+│   │   ├── 📂 Controllers
+│   │   │   └── (API e Inertia controllers)
+│   │   └── 📂 Middleware
+│   │       └── (ex.: HandleInertiaRequests)
+│   ├── 📂 Models
+│   │   └── (User, Topic, Post, Menu)
 │   └── 📂 Providers
 ├── 📂 database
-│   └── 📂 migrations (tabelas como menus, topics, posts)
+│   └── 📂 migrations
+│       └── (tabelas como menus, topics, posts)
 ├── 📂 resources
 │   ├── 📂 js
-│   │   ├── 📂 Components (ex.: MenuSidebar.vue)
-│   │   └── 📂 Pages (ex.: Home.vue, Forum.vue)
-│   └── 📂 css (Tailwind config)
+│   │   ├── 📂 Components
+│   │   │   └── (ex.: MenuSidebar.vue)
+│   │   └── 📂 Pages
+│   │       └── (ex.: Home.vue, Forum.vue)
+│   └── 📂 css
+│       └── (Tailwind config)
 ├── 📂 routes
-│   ├── 📂 api.php (rotas como /api/menu/index)
-│   └── 📂 web.php (rotas Inertia)
+│   ├── 📂 api.php
+│   │   └── (rotas como /api/menu/index)
+│   └── 📂 web.php
+│       └── (rotas Inertia)
 └── 📂 public
-
 
 ## Como Contribuir
 Estamos abertos a colaborações! Veja como você pode ajudar:  
