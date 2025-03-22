@@ -1,6 +1,6 @@
-# Fórum Multi-Temas: Conectando Conhecimento e Comunidade
+# Gaterhub: Conectando Conhecimento e Comunidade
 
-Bem-vindo ao **Fórum Multi-Temas**, uma plataforma em desenvolvimento projetada para unir entusiastas e profissionais em discussões ricas sobre tópicos essenciais como:
+Bem-vindo ao **Gaterhub**, uma plataforma em desenvolvimento projetada para unir entusiastas e profissionais em discussões ricas sobre tópicos essenciais como:
 
 - **Programação**: De algoritmos a frameworks modernos.
 - **Contabilidade**: Ferramentas, normas e estratégias financeiras.
@@ -114,7 +114,7 @@ Estamos abertos a colaborações! Veja como você pode ajudar:
     composer run dev
 
 Junte-se à Jornada
-O Fórum Multi-Temas está nascendo, e você pode ser parte disso! Dê uma ⭐ no repositório, contribua com código ou ideias e ajude a criar algo incrível para a comunidade.
+O Gaterhub está nascendo, e você pode ser parte disso! Dê uma ⭐ no repositório, contribua com código ou ideias e ajude a criar algo incrível para a comunidade.
 
 Licença: Em breve (a definir quando open source).
 
