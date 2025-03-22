@@ -84,6 +84,7 @@ Aqui está uma visão geral da arquitetura atual do projeto **Gaterhub**:
 │   └── 📂 web.php
 │       └── (rotas Inertia)
 └── 📂 public
+```
 
 ## Como Contribuir
 Estamos abertos a colaborações! Veja como você pode ajudar:  
@@ -111,9 +112,12 @@ Estamos abertos a colaborações! Veja como você pode ajudar:
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/seu-usuario/forum-multi-temas.git
+   ```
 2. Instale dependências
+    ```bash
     composer install
     npm install
+    ```
 3. Configure o .env
     Copie o .env_example para .env
     Defina DB_DATABASE, DB_USERNAME, e DB_PASSWORD.
