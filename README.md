@@ -111,7 +111,7 @@ Estamos abertos a colaborações! Veja como você pode ajudar:
 ## Instalação (Local)
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/forum-multi-temas.git
+   git clone https://github.com/seu-usuario/gaterhub.git
    ```
 2. Instale dependências
     ```bash
@@ -122,21 +122,15 @@ Estamos abertos a colaborações! Veja como você pode ajudar:
     Copie o .env_example para .env
     Defina DB_DATABASE, DB_USERNAME, e DB_PASSWORD.
 4. rode as migrations
+    ```bash
     php artisan migrate
+    ```
 5. inicie o servidor
+    ```bash
     composer run dev
+    ```
 
 Junte-se à Jornada
 O Gaterhub está nascendo, e você pode ser parte disso! Dê uma ⭐ no repositório, contribua com código ou ideias e ajude a criar algo incrível para a comunidade.
 
 Licença: MIT LICENSE.
-
----
-
-### Instruções:
-1. Salve esse conteúdo em um arquivo chamado `README.md` na raiz do seu projeto.
-2. Substitua `https://github.com/seu-usuario/geterhub.git` pelo URL real do seu repositório quando ele for criado.
-3. Adicione seu email ou link de contato na seção **Contato**.
-4. Se quiser, inclua badges no topo (ex.: status do build, versão do Laravel) usando serviços como Shields.io.
-
-Está pronto para ser usado! Se precisar de mais ajustes ou quiser adicionar algo específico, é só me avisar!
