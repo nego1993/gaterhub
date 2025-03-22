@@ -116,7 +116,7 @@ Estamos abertos a colaborações! Veja como você pode ajudar:
 Junte-se à Jornada
 O Gaterhub está nascendo, e você pode ser parte disso! Dê uma ⭐ no repositório, contribua com código ou ideias e ajude a criar algo incrível para a comunidade.
 
-Licença: Em breve (a definir quando open source).
+Licença: MIT LICENSE.
 
 ---
 
